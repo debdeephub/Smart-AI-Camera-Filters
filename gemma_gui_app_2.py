@@ -20,7 +20,7 @@ class GemmaFilterApp:
         self.bg_color = "#1C1C1E"       # SystemBackground
         self.panel_color = "#2C2C2E"    # SecondarySystemBackground
         self.accent_color = "#0A84FF"   # Apple System Blue
-        self.text_color = "#FFFFFF"     # Primary Text
+        self.text_color = "#000000"     # Primary Text
         self.text_dim = "#AEAEB2"       # Secondary Text / Labels
         self.success_color = "#30D158"  # Apple System Green
 
